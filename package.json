@@ -16,5 +16,10 @@
         "laravel-mix": "^1.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "buefy": "^0.4.4",
+        "bulma": "^0.4.2",
+        "font-awesome": "^4.7.0"
     }
 }
